@@ -21,7 +21,7 @@ app.use(cors({
   origin: [
     "http://localhost:5173",                       // dev
     "https://platescout-assignment8.vercel.app",
-    "https://platescout-assignment8-9592bdfcx-platescout-robel.vercel.app/",          // <-- your Vercel URL (after Step D)
+    "https://platescout-assignment8-git-main-platescout-robel.vercel.app",          // <-- your Vercel URL (after Step D)
     /\.vercel\.app$/,                              // optional: preview branches
   ],
   credentials: true,
